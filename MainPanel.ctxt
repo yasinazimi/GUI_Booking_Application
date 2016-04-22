@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=boats
+comment0.target=MainPanel(model.Boats)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=c\ x
+comment3.target=void\ setSize(javax.swing.JComponent,\ int)
+comment4.params=
+comment4.target=void\ build()
+comment5.params=
+comment5.target=javax.swing.Box\ inputBox()
+comment6.params=
+comment6.target=javax.swing.JList\ theList()
+comment7.params=label\ field
+comment7.target=javax.swing.Box\ pair(java.lang.String,\ javax.swing.JTextField)
+comment8.params=
+comment8.target=void\ clear()
+numComments=9
