@@ -1,5 +1,4 @@
-// Yasin Azimi - 11733490
-
+/* Yasin Azimi - 11733490 */
 
 import model.*;
 import java.awt.*;
@@ -33,9 +32,14 @@ public class Root extends JFrame
         for (Boat boat: boats.boats())
             new BoatWindow(boat);
 
-        //switch (id)
-        //{ case 1: new BoatWindow(boat, 500); break;
-        //  case 2: new BoatWindow(boat, 650); break;
-        //  default:new BoatWindow(boat, 800); break; }
+        /* switch (id)
+        {
+			case 1: new BoatWindow(boat, 500);
+					break;
+			case 2: new BoatWindow(boat, 650);
+					break;
+			default:new BoatWindow(boat, 800);
+					break; 
+		} */
     }
 }
